@@ -1,3 +1,3 @@
 # react-native-todo
 
-Hi. Dis is my hirst react native app.
+Hi. Dis is my first react native app.
